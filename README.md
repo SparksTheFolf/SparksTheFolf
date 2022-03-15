@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning .Net Framework with DB
 - 👯 I’m looking to collaborate on a discord bot?!?!?!
 - 💬 Ask me about my hobbies!
-- 📫 How to reach me with my work email: nolan@nolant108.tech
 - ⚡ Fun facts: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  I am a dengenerative furry 😂 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My favorite languages is JS, Java, C++ <br>
