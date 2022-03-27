@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ <img  src="https://github-profile-trophy.vercel.app/?username=Nolant108&theme=onedark" />
+
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=nolant108&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolant108&layout=compact&theme=dark" />
