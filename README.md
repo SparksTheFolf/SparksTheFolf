@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/388716470772826112)](https://discord.com/users/388716470772826112)
+
  <img  src="https://github-profile-trophy.vercel.app/?username=Nolant108&theme=onedark" />
 
 <p float="center">
