@@ -2,7 +2,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/388716470772826112)](https://discord.com/users/388716470772826112)
 [![Last.fm Activity](https://toru.kio.dev/api/v1/nolant108/?theme=dark)](https://last.fm/user/nolant108)  
-![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=nolant108.nolant108)
+
 
  <img  src="https://github-profile-trophy.vercel.app/?username=Nolant108&theme=onedark" />
 
@@ -24,7 +24,8 @@
 - 🏫 School: Embry–Riddle Aeronautical University '26 (B.Sc in Cyber Information & Security)
  <br> <br>
  
-
+  
+  ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=nolant108.nolant108)
 
 <!--
 **nolant108/nolant108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
