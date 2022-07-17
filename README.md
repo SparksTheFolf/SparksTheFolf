@@ -21,7 +21,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My favorite languages is JS, Java, C++ <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My code tends to be overcomplecated LOL <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  I am a private pilot, and currently working on my instrument rating <br>
-- 🏫 School: Embry–Riddle Aeronautical University '26 (B.Sc in Cyber Information & Security)
  <br> <br>
  
   
