@@ -5,8 +5,8 @@
 
 
  <img  src="https://github-profile-trophy.vercel.app/?username=Nolant108&theme=onedark" />
+
  
- <a class="twitter-timeline" data-height="400" data-dnt="true" data-theme="dark" href="https://twitter.com/SparksTheFolf?ref_src=twsrc%5Etfw">Tweets by SparksTheFolf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=nolant108&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
