@@ -7,7 +7,7 @@
  <img  src="https://github-profile-trophy.vercel.app/?username=SparksTheFolf&theme=onedark" />
  
 
-<script src="https://tryhackme.com/badge/25719"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/SparksTheFolf.png" alt="TryHackMe">
  
 
 <p float="center">
