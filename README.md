@@ -7,8 +7,7 @@
  <img  src="https://github-profile-trophy.vercel.app/?username=SparksTheFolf&theme=onedark" />
  
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/SparksTheFolf.png" alt="TryHackMe">
- 
+ [![TryHackMe Activity](https://tryhackme-badges.s3.amazonaws.com/SparksTheFolf.png)](https://tryhackme.com/p/SparksTheFolf)  
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=SparksTheFolf&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
