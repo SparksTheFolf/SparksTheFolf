@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Current Fluent Languages:  
+![html](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
+![.net](https://img.shields.io/badge/-NET-512BD4?logo=.net&logoColor=fff)
+![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff)
+![AS](https://img.shields.io/badge/-Assembly-007AAC?logo=AssemblyScript&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff)
+
+  
 [![Discord Presence](https://lanyard.cnrad.dev/api/388716470772826112)](https://discord.com/users/388716470772826112)
 [![Last.fm Activity](https://toru.kio.dev/api/v1/SparksTheFolf/?theme=dark)](https://last.fm/user/SparksTheFolf)  
 
