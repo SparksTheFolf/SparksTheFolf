@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Current Fluent Languages:  
+![php](https://img.shields.io/badge/-php-474A8A?logo=php&logoColor=fff)
 ![html](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
 ![.net](https://img.shields.io/badge/-NET-512BD4?logo=.net&logoColor=fff)
 ![python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=fff)
