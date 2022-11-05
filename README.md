@@ -36,7 +36,6 @@ Current Fluent Languages:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My code tends to be overcomplecated LOL <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  I am a private pilot, and currently working on my instrument rating <br>
  <br> <br>
- ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)  
   
   ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=nolant108.nolant108)
 
