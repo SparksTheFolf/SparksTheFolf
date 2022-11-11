@@ -38,6 +38,8 @@ Current Fluent Languages:
  <br> <br>
   
   ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=nolant108.nolant108)
+  
+  <a href="https://wakatime.com/@2728ab31-2f1f-47ca-9aa2-2af38029a472"><img src="https://wakatime.com/badge/user/2728ab31-2f1f-47ca-9aa2-2af38029a472.svg" alt="Total time coded since Sep 6 2022" /></a>
 
 <!--
 **nolant108/nolant108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
