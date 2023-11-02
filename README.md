@@ -36,6 +36,7 @@ Current Fluent Languages:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My favorite languages is C, JS, Java, C++ <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My code tends to be overcomplecated and recursive LOL <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  I am a private pilot, and currently working on my instrument rating <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  Only about 30+ repos are shown, but I haved over 100+ Public and Private in my repo's total. <br>
  <br> <br>
   
   ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=nolant108.nolant108)
