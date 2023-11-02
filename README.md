@@ -8,7 +8,7 @@ Current Fluent Languages:
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff)
 ![AS](https://img.shields.io/badge/-Assembly-007AAC?logo=AssemblyScript&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=C&logoColor=fff)
+![Go](https://img.shields.io/badge/-C-00ADD8?logo=C&logoColor=fff)
 
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/388716470772826112)](https://discord.com/users/388716470772826112)
