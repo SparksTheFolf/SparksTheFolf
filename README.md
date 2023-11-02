@@ -10,8 +10,6 @@ Current Fluent Languages:
 ![AS](https://img.shields.io/badge/-Assembly-007AAC?logo=AssemblyScript&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=fff)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q26U1OC)
-
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/388716470772826112)](https://discord.com/users/388716470772826112)
 [![Last.fm Activity](https://toru.kio.dev/api/v1/SparksTheFolf/?theme=dark)](https://last.fm/user/SparksTheFolf)  
@@ -35,8 +33,8 @@ Current Fluent Languages:
 - 💬 Ask me about my hobbies!
 - ⚡ Fun facts: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  I am a dengenerative furry 😂 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My favorite languages is JS, Java, C++ <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My code tends to be overcomplecated LOL <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My favorite languages is C, JS, Java, C++ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  My code tends to be overcomplecated and recursive LOL <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-  I am a private pilot, and currently working on my instrument rating <br>
  <br> <br>
   
