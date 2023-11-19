@@ -11,7 +11,7 @@ Current Fluent Languages:
 ![Go](https://img.shields.io/badge/-C-00ADD8?logo=C&logoColor=fff)
 
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/388716470772826112)](https://discord.com/users/388716470772826112)
+
 [![Last.fm Activity](https://toru.kio.dev/api/v1/SparksTheFolf/?theme=dark)](https://last.fm/user/SparksTheFolf)  
 
 
