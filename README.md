@@ -27,9 +27,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SparksTheFolf&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" alt="GitHub Stats" />
 </p>
-
-[![Coding Activity](https://wakatime.com/share/@SparksTheFolf/954548dd-334f-4b34-a1b4-97b8b5e8e8e4.svg)](https://wakatime.com/@SparksTheFolf)
-
 ---
 
 ### About Me
