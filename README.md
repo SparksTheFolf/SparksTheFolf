@@ -14,12 +14,6 @@
 
 [![Last.fm Activity](https://toru.kio.dev/api/v1/SparksTheFolf/?theme=dark)](https://last.fm/user/SparksTheFolf)
 
-<img src="https://github-profile-trophy.vercel.app/?username=SparksTheFolf&theme=onedark" alt="Trophies" />
-
-<a href="https://app.daily.dev/sparksfolfy">
-  <img src="https://api.daily.dev/devcards/v2/QwnzAIzM183dDjw7qSnpP.png?type=wide&r=ciz" width="652" alt="Folfy's Dev Card"/>
-</a>
-
 [![TryHackMe Activity](https://tryhackme-badges.s3.amazonaws.com/SparksTheFolf.png)](https://tryhackme.com/p/SparksTheFolf)
 
 ---
@@ -36,7 +30,6 @@
 - 👯 I’m looking to collaborate on a discord bot?!?!
 - 💬 Ask me about my hobbies!
 - ⚡ **Fun facts:**
-  - I am a "degenerative furry" 😂
   - My favorite languages are C, JS, Java, and C++.
   - My code tends to be overcomplicated and recursive LOL.
   - I am a private pilot, currently working on my instrument rating.
